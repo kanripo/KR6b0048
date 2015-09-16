@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 眾許摩訶帝經
+#+DATE: 2015-08-30 19:35:10.795952
+#+PROPERTY: JUAN 0
