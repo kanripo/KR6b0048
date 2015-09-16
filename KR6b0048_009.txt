@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:10.407511
+#+DATE: 2015-08-30 19:35:14.818672
 #+TITLE: 眾許摩訶帝經
 #+PROPERTY: CBETA_ID T03n0191
 #+PROPERTY: ID KR6b0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 191
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6b0048_T_000-0932a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0048_T_009-0957c> 
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《佛說眾許摩訶帝經》卷第九¶
+《佛說眾許摩訶帝經》卷第九¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 明教大師臣法賢奉　詔譯¶
@@ -145,7 +144,7 @@
 能感梵王下來聽法，實為希有；我定得知亦¶
 證阿羅漢果。」
 
-至第五日，時烏嚕尾螺迦葉弟子¶
+至第五日，時烏尾螺迦葉弟子¶
 摩拏嚩迦等，五百人眾，俱事三火，各有三鑪，其¶
 鑪共有一千五百。是時世尊在彼樹下，又值¶
 彼眾用火祭天。彼五百人常式發火火不能¶

@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:10.429287
+#+DATE: 2015-08-30 19:35:14.849129
 #+TITLE: 眾許摩訶帝經
 #+PROPERTY: CBETA_ID T03n0191
 #+PROPERTY: ID KR6b0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 191
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6b0048_T_000-0932a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0048_T_010-0961a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《佛說眾許摩訶帝經》卷第十¶
+《佛說眾許摩訶帝經》卷第十¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 明教大師臣法賢奉　詔譯¶
