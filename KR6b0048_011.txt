@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:10.450263
+#+DATE: 2015-08-30 19:35:14.255895
 #+TITLE: 眾許摩訶帝經
 #+PROPERTY: CBETA_ID T03n0191
 #+PROPERTY: ID KR6b0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 191
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6b0048_T_000-0932a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0048_T_011-0964a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 《佛說眾許摩訶帝經》卷第十一¶
+《佛說眾許摩訶帝經》卷第十一¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少¶
 卿明教大師臣法賢奉　詔譯¶
@@ -219,8 +218,7 @@
 多，具輪王相，棄捨出家苦行修習，證得阿耨¶
 多羅三藐三菩提，斯即佛也。」又復問言：「云何¶
 聖眾？」對曰：「有剎利族或婆羅門族，乃至毘舍¶
-輸陀，如是之族善男子輩投佛出家，剃除鬚¶
-髮被袈裟衣，正信修行聞法悟解，悉皆證¶
+輸陀，如是之族善男子輩投佛出家，剃除鬚髮被袈裟衣，正信修行聞法悟解，悉皆證¶
 得阿羅漢道。此是隨佛一千聖眾，我所供養¶
 正為此也。」給孤長者聞是說已，身毛皆豎歡
 <pb:KR6b0048_T_011-0966b>¶

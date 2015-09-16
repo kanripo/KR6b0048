@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:10.241169
+#+DATE: 2015-08-30 19:35:14.051160
 #+TITLE: 眾許摩訶帝經
 #+PROPERTY: CBETA_ID T03n0191
 #+PROPERTY: ID KR6b0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 191
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6b0048_T_000-0932a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0048_T_003-0939a> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《佛說眾許摩訶帝經》卷第三¶
+《佛說眾許摩訶帝經》卷第三¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少¶
 卿明教大師臣法賢奉　詔譯¶
@@ -398,7 +397,7 @@
 一手執持象尾，向空而擲，過七重城，如投土¶
 塊。時毘舍離城獻象之者，見悉達多有大威
 <pb:KR6b0048_T_003-0942b>¶
-力，即說偈言：¶
+威。力說偈言：¶
 
 #+BEGIN_VERSE
 「　「我等遠馳象，
