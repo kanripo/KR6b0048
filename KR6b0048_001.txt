@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:10.182592
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:58
 #+TITLE: 眾許摩訶帝經
 #+PROPERTY: CBETA_ID T03n0191
 #+PROPERTY: ID KR6b0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 191
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0048_T_000-0932a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0048_T_001-0932a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.191¶
-
- 《佛說眾許摩訶帝經》卷第一¶
+No. 191¶
+《佛說眾許摩訶帝經》卷第一¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 明教大師臣法賢奉　詔譯¶
@@ -285,7 +284,7 @@ No.191¶
 「於最後王復生一王，名儞彌王，彼王復¶
 生摩娛努王；摩娛努王復生涅里姹儞彌佉¶
 努王；涅里姹儞彌佉努王復生嚕波佉努王；¶
-嚕波佉努王復生佉努摩曩王；佉努摩曩王¶
+波嚕佉努王復生佉努摩曩王；佉努摩曩王¶
 復生佉努滿多王；佉努滿多王復生酥涅里¶
 舍王；酥涅里舍王復生娑涅里舍王；娑涅里
 <pb:KR6b0048_T_001-0935a>¶
